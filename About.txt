@@ -1,0 +1,10 @@
+Create a simple HTML page with some text and use Browser based Development Tools to modify the page 
+in the browser.
+
+Tools Needed:
+- Computer 
+- Terminal, Console, Poweshell, 
+- Text Editor (Notepad, Notepad++, Textedit)
+- Web Broswer (Chrome, Microsoft Edge, etc)
+
+
